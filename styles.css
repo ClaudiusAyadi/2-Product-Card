@@ -124,6 +124,7 @@ body {
   border: none;
   border-radius: 1rem;
   color: var(--white);
+  cursor: pointer;
   transition: all 0.3s ease-in-out;
 }
 
